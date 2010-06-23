@@ -1,0 +1,10 @@
+Name: parseclone
+Version: 0.1
+Description: just another parser combinator library
+Author: Pete Vilter
+Build-Type: Simple
+Cabal-Version: >= 1.2
+
+Library
+  Build-Depends: base == 4.*
+  Exposed-modules: Parseclone.Core, Parseclone.LexPrims
