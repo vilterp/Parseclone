@@ -1,4 +1,4 @@
-This is a parser combinator library, like the famous [parsec](http://legacy.cs.uu.nl/daan/parsec.html), for learning purposes. Used in [HsScheme](http://github.com/bonasaurus1/HsScheme/).
+This is a parser combinator library, like the famous [parsec](http://legacy.cs.uu.nl/daan/parsec.html), for learning purposes. Used in [HsScheme](http://github.com/vilterp/HsScheme/).
 
 ## Install
 
